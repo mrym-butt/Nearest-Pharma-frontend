@@ -1,0 +1,12 @@
+.carousel {
+    display: block;
+    width: 1000px; /* Set to 100% or another specific value */
+    /* max-width: 1000px; Adjust to your desired max width */
+    margin: auto; /* Center the carousel */
+  }
+  
+  .carousel-image {
+    height: 500px; /* Adjust the height as needed */
+    object-fit: cover; /* Ensure the image covers the container without stretching */
+  }
+  
